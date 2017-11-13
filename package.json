@@ -1,0 +1,19 @@
+{
+  "name": "darts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangerhire8/darts.git"
+  },
+  "author": "DDzhel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangerhire8/darts/issues"
+  },
+  "homepage": "https://github.com/dangerhire8/darts#readme"
+}
